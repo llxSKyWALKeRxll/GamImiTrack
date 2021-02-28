@@ -14,7 +14,7 @@ class mainImageManipulation: #This class will perform the main manipulation oper
         self.symbol_animation = numpy.random.choice(self.special_char, self.char_Size) #Generates random symbols from the specified unicode so that they look animated on the display screen
         self.move_symbol = numpy.random.randint(25, 50, size=self.char_Size) #Helps in moving the symbols along a vertical line so that they appear animated
         self.symbol_speed = numpy.random.randint(250, 400, size=self.char_Size) #This defines the speed in which the letters randomize themselves
-        self.image = self.load_image('Images/dada1.jpg')
+        self.image = self.load_image('Images/kobe3.jpg')
 
 
     def execute(self):
