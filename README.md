@@ -1,3 +1,6 @@
+# UPDATE
+Go to the 'GamImiTrack2' repository for the fully working and updated version of this application! =)
+
 # GamImiTrack
 Group Project 2k21.
 
